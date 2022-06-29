@@ -37,6 +37,10 @@
                                 </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-06-27 at 12.21.20 PM" translatesAutoresizingMaskIntoConstraints="NO" id="bTT-Bw-uFY">
+                                <rect key="frame" x="-22" y="659" width="458" height="139"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.015686274510000001" green="0.078431372550000003" blue="0.1764705882" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -48,6 +52,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Screen Shot 2022-06-27 at 12.21.20 PM" width="1740" height="586"/>
         <image name="Screen Shot 2022-06-28 at 4.21.04 PM" width="82" height="334"/>
         <image name="Screen_Shot_2022-06-27_at_4.04.00_PM-removebg-preview" width="499" height="500"/>
     </resources>

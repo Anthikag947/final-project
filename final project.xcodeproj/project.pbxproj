@@ -17,6 +17,7 @@
 		BD5BC3232869FA6600B1AE14 /* final_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BC3222869FA6600B1AE14 /* final_projectTests.swift */; };
 		BD5BC32D2869FA6600B1AE14 /* final_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BC32C2869FA6600B1AE14 /* final_projectUITests.swift */; };
 		BD5BC32F2869FA6600B1AE14 /* final_projectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BC32E2869FA6600B1AE14 /* final_projectUITestsLaunchTests.swift */; };
+		BD5BC37D286CC15700B1AE14 /* entreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BC37C286CC15700B1AE14 /* entreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		BD5BC3282869FA6600B1AE14 /* final projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "final projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD5BC32C2869FA6600B1AE14 /* final_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = final_projectUITests.swift; sourceTree = "<group>"; };
 		BD5BC32E2869FA6600B1AE14 /* final_projectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = final_projectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BD5BC37C286CC15700B1AE14 /* entreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = entreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				BD5BC30A2869FA6500B1AE14 /* SceneDelegate.swift */,
 				BD5BC30C2869FA6500B1AE14 /* ViewController.swift */,
 				BD5BC30E2869FA6500B1AE14 /* Main.storyboard */,
+				BD5BC37C286CC15700B1AE14 /* entreViewController.swift */,
 				BD5BC3142869FA6600B1AE14 /* Assets.xcassets */,
 				BD5BC3162869FA6600B1AE14 /* LaunchScreen.storyboard */,
 				BD5BC3192869FA6600B1AE14 /* Info.plist */,
@@ -263,6 +266,7 @@
 			files = (
 				BD5BC30D2869FA6500B1AE14 /* ViewController.swift in Sources */,
 				BD5BC3092869FA6500B1AE14 /* AppDelegate.swift in Sources */,
+				BD5BC37D286CC15700B1AE14 /* entreViewController.swift in Sources */,
 				BD5BC3132869FA6500B1AE14 /* final_project.xcdatamodeld in Sources */,
 				BD5BC30B2869FA6500B1AE14 /* SceneDelegate.swift in Sources */,
 			);
