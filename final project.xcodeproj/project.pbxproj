@@ -20,6 +20,22 @@
 		BD5BC37D286CC15700B1AE14 /* entreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5BC37C286CC15700B1AE14 /* entreViewController.swift */; };
 		BD757631286E26CA00B082B4 /* logoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757630286E26CA00B082B4 /* logoViewController.swift */; };
 		BD757633286E271F00B082B4 /* productViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757632286E271F00B082B4 /* productViewController.swift */; };
+		BD757635286E3FEC00B082B4 /* resource1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757634286E3FEC00B082B4 /* resource1ViewController.swift */; };
+		BD757637286E46CB00B082B4 /* resource2 ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757636286E46CB00B082B4 /* resource2 ViewController.swift */; };
+		BD757639286E46DA00B082B4 /* resource3 ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757638286E46DA00B082B4 /* resource3 ViewController.swift */; };
+		BD75763B286E46E800B082B4 /* resource4 ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75763A286E46E800B082B4 /* resource4 ViewController.swift */; };
+		BD75763D286E46F700B082B4 /* resource5 ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75763C286E46F700B082B4 /* resource5 ViewController.swift */; };
+		BD75763F286E470300B082B4 /* resource6 ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75763E286E470300B082B4 /* resource6 ViewController.swift */; };
+		BD757641286E471F00B082B4 /* civil ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757640286E471F00B082B4 /* civil ViewController.swift */; };
+		BD757643286E473100B082B4 /* chemical ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757642286E473100B082B4 /* chemical ViewController.swift */; };
+		BD757645286E473C00B082B4 /* mechanical ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757644286E473C00B082B4 /* mechanical ViewController.swift */; };
+		BD757647286E474E00B082B4 /* electrical ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757646286E474E00B082B4 /* electrical ViewController.swift */; };
+		BD757649286E476700B082B4 /* precivil ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757648286E476700B082B4 /* precivil ViewController.swift */; };
+		BD75764B286E477700B082B4 /* prechemical ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75764A286E477700B082B4 /* prechemical ViewController.swift */; };
+		BD75764D286E478600B082B4 /* premechanical ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75764C286E478600B082B4 /* premechanical ViewController.swift */; };
+		BD75764F286E479D00B082B4 /* preelectrical ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD75764E286E479D00B082B4 /* preelectrical ViewController.swift */; };
+		BD757651286E47B000B082B4 /* personality ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757650286E47B000B082B4 /* personality ViewController.swift */; };
+		BD757653286E47C300B082B4 /* pitch ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD757652286E47C300B082B4 /* pitch ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +73,22 @@
 		BD5BC37C286CC15700B1AE14 /* entreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = entreViewController.swift; sourceTree = "<group>"; };
 		BD757630286E26CA00B082B4 /* logoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = logoViewController.swift; sourceTree = "<group>"; };
 		BD757632286E271F00B082B4 /* productViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productViewController.swift; sourceTree = "<group>"; };
+		BD757634286E3FEC00B082B4 /* resource1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resource1ViewController.swift; sourceTree = "<group>"; };
+		BD757636286E46CB00B082B4 /* resource2 ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "resource2 ViewController.swift"; sourceTree = "<group>"; };
+		BD757638286E46DA00B082B4 /* resource3 ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "resource3 ViewController.swift"; sourceTree = "<group>"; };
+		BD75763A286E46E800B082B4 /* resource4 ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "resource4 ViewController.swift"; sourceTree = "<group>"; };
+		BD75763C286E46F700B082B4 /* resource5 ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "resource5 ViewController.swift"; sourceTree = "<group>"; };
+		BD75763E286E470300B082B4 /* resource6 ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "resource6 ViewController.swift"; sourceTree = "<group>"; };
+		BD757640286E471F00B082B4 /* civil ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "civil ViewController.swift"; sourceTree = "<group>"; };
+		BD757642286E473100B082B4 /* chemical ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "chemical ViewController.swift"; sourceTree = "<group>"; };
+		BD757644286E473C00B082B4 /* mechanical ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "mechanical ViewController.swift"; sourceTree = "<group>"; };
+		BD757646286E474E00B082B4 /* electrical ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "electrical ViewController.swift"; sourceTree = "<group>"; };
+		BD757648286E476700B082B4 /* precivil ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "precivil ViewController.swift"; sourceTree = "<group>"; };
+		BD75764A286E477700B082B4 /* prechemical ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "prechemical ViewController.swift"; sourceTree = "<group>"; };
+		BD75764C286E478600B082B4 /* premechanical ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "premechanical ViewController.swift"; sourceTree = "<group>"; };
+		BD75764E286E479D00B082B4 /* preelectrical ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "preelectrical ViewController.swift"; sourceTree = "<group>"; };
+		BD757650286E47B000B082B4 /* personality ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "personality ViewController.swift"; sourceTree = "<group>"; };
+		BD757652286E47C300B082B4 /* pitch ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "pitch ViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +143,22 @@
 				BD5BC30A2869FA6500B1AE14 /* SceneDelegate.swift */,
 				BD5BC30C2869FA6500B1AE14 /* ViewController.swift */,
 				BD5BC30E2869FA6500B1AE14 /* Main.storyboard */,
+				BD757636286E46CB00B082B4 /* resource2 ViewController.swift */,
+				BD757638286E46DA00B082B4 /* resource3 ViewController.swift */,
+				BD75763A286E46E800B082B4 /* resource4 ViewController.swift */,
+				BD75763C286E46F700B082B4 /* resource5 ViewController.swift */,
+				BD75763E286E470300B082B4 /* resource6 ViewController.swift */,
+				BD757648286E476700B082B4 /* precivil ViewController.swift */,
+				BD75764A286E477700B082B4 /* prechemical ViewController.swift */,
+				BD75764C286E478600B082B4 /* premechanical ViewController.swift */,
+				BD75764E286E479D00B082B4 /* preelectrical ViewController.swift */,
+				BD757650286E47B000B082B4 /* personality ViewController.swift */,
+				BD757652286E47C300B082B4 /* pitch ViewController.swift */,
+				BD757640286E471F00B082B4 /* civil ViewController.swift */,
+				BD757642286E473100B082B4 /* chemical ViewController.swift */,
+				BD757644286E473C00B082B4 /* mechanical ViewController.swift */,
+				BD757646286E474E00B082B4 /* electrical ViewController.swift */,
+				BD757634286E3FEC00B082B4 /* resource1ViewController.swift */,
 				BD757632286E271F00B082B4 /* productViewController.swift */,
 				BD757630286E26CA00B082B4 /* logoViewController.swift */,
 				BD5BC37C286CC15700B1AE14 /* entreViewController.swift */,
@@ -270,13 +318,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD75764D286E478600B082B4 /* premechanical ViewController.swift in Sources */,
+				BD757647286E474E00B082B4 /* electrical ViewController.swift in Sources */,
+				BD75764F286E479D00B082B4 /* preelectrical ViewController.swift in Sources */,
+				BD75764B286E477700B082B4 /* prechemical ViewController.swift in Sources */,
+				BD757637286E46CB00B082B4 /* resource2 ViewController.swift in Sources */,
+				BD757641286E471F00B082B4 /* civil ViewController.swift in Sources */,
+				BD75763F286E470300B082B4 /* resource6 ViewController.swift in Sources */,
+				BD757635286E3FEC00B082B4 /* resource1ViewController.swift in Sources */,
+				BD757643286E473100B082B4 /* chemical ViewController.swift in Sources */,
 				BD5BC30D2869FA6500B1AE14 /* ViewController.swift in Sources */,
 				BD757631286E26CA00B082B4 /* logoViewController.swift in Sources */,
 				BD5BC3092869FA6500B1AE14 /* AppDelegate.swift in Sources */,
+				BD757649286E476700B082B4 /* precivil ViewController.swift in Sources */,
 				BD757633286E271F00B082B4 /* productViewController.swift in Sources */,
 				BD5BC37D286CC15700B1AE14 /* entreViewController.swift in Sources */,
 				BD5BC3132869FA6500B1AE14 /* final_project.xcdatamodeld in Sources */,
+				BD75763B286E46E800B082B4 /* resource4 ViewController.swift in Sources */,
+				BD757653286E47C300B082B4 /* pitch ViewController.swift in Sources */,
+				BD75763D286E46F700B082B4 /* resource5 ViewController.swift in Sources */,
 				BD5BC30B2869FA6500B1AE14 /* SceneDelegate.swift in Sources */,
+				BD757645286E473C00B082B4 /* mechanical ViewController.swift in Sources */,
+				BD757651286E47B000B082B4 /* personality ViewController.swift in Sources */,
+				BD757639286E46DA00B082B4 /* resource3 ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
