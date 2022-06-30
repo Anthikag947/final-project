@@ -3948,7 +3948,7 @@ CQ
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gji-PR-IZQ">
-                                <rect key="frame" x="20" y="346" width="371" height="205"/>
+                                <rect key="frame" x="22" y="441" width="371" height="205"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment content="Now its time to Execute!">
@@ -4003,10 +4003,6 @@ CQ
                                     <segue destination="Evj-mv-AdX" kind="show" id="Cfm-oq-55o"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2022-06-27_at_4.04.00_PM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="iwQ-Ud-Xnh">
-                                <rect key="frame" x="-39" y="44" width="488" height="338"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-06-28 at 4.21.04 PM" translatesAutoresizingMaskIntoConstraints="NO" id="3ve-g3-yDa">
                                 <rect key="frame" x="-29" y="54" width="35" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -4015,6 +4011,24 @@ CQ
                                 <rect key="frame" x="14" y="0.0" width="35" height="149"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2022-06-30_at_12.09.24_PM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="KgS-6R-1Xq">
+                                <rect key="frame" x="-33" y="141" width="480" height="355"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="05q-cW-7Lp">
+                                <rect key="frame" x="37" y="-2" width="340" height="205"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="You have earned the planning Badge!">
+                                        <attributes>
+                                            <color key="NSColor" red="1" green="0.10547609848555584" blue="0.51408828701370179" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="31" name="Rockwell-Regular"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Yjb-TA-fB9"/>
                         <color key="backgroundColor" red="0.015686274510000001" green="0.078431372550000003" blue="0.1764705882" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -4555,11 +4569,11 @@ CQ
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lrW-0b-3RR">
-                                <rect key="frame" x="49" y="374" width="316" height="205"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lrW-0b-3RR">
+                                <rect key="frame" x="30" y="20" width="354" height="205"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
-                                    <fragment content="Your All Done!">
+                                    <fragment content="You did it! You have earned the Entrepreneurship Badge!">
                                         <attributes>
                                             <color key="NSColor" red="1" green="0.10547609848555584" blue="0.51408828701370179" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                             <font key="NSFont" size="31" name="Rockwell-Regular"/>
@@ -4607,12 +4621,12 @@ CQ
                                     <segue destination="VPo-Y6-eZt" kind="show" id="XSa-MK-LpE"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2022-06-27_at_4.04.00_PM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="weL-BB-jpq">
-                                <rect key="frame" x="-37" y="44" width="488" height="338"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-06-28 at 4.21.04 PM" translatesAutoresizingMaskIntoConstraints="NO" id="KuV-ws-ifg">
                                 <rect key="frame" x="16" y="8" width="35" height="149"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2022-06-30_at_12.05.22_PM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="hFh-TI-aez">
+                                <rect key="frame" x="-33" y="202" width="480" height="355"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -12143,7 +12157,6 @@ Web Developer: A web developer creates and manages websites and web applications
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="doS-KG-vGu"/>
         <segue reference="wkk-C2-eUN"/>
         <segue reference="MXT-yW-3uz"/>
         <segue reference="z6x-kR-aO0"/>
@@ -12165,11 +12178,11 @@ Web Developer: A web developer creates and manages websites and web applications
         <segue reference="Nsn-68-31X"/>
         <segue reference="fvf-N8-J6T"/>
         <segue reference="S9a-DD-Aup"/>
-        <segue reference="67O-8b-DJW"/>
+        <segue reference="uFz-Hj-bIR"/>
         <segue reference="mfE-TF-rmY"/>
-        <segue reference="fss-Z4-u6x"/>
+        <segue reference="Cfm-oq-55o"/>
         <segue reference="a1w-tg-YX6"/>
-        <segue reference="Kec-aU-vp9"/>
+        <segue reference="HwA-9i-eER"/>
         <segue reference="nWQ-zf-d2l"/>
         <segue reference="sBf-gx-GZD"/>
         <segue reference="qOS-yg-XMB"/>
@@ -12199,6 +12212,8 @@ Web Developer: A web developer creates and manages websites and web applications
         <image name="Screen_Shot_2022-06-29_at_2.07.43_PM-removebg-preview" width="493" height="506"/>
         <image name="Screen_Shot_2022-06-29_at_2.07.49_PM-removebg-preview" width="501" height="498"/>
         <image name="Screen_Shot_2022-06-29_at_2.25.00_PM-removebg-preview (3)" width="499" height="500"/>
+        <image name="Screen_Shot_2022-06-30_at_12.05.22_PM-removebg-preview" width="508" height="491"/>
+        <image name="Screen_Shot_2022-06-30_at_12.09.24_PM-removebg-preview" width="518" height="482"/>
         <image name="camera" catalog="system" width="128" height="94"/>
         <image name="growth" width="1280" height="853"/>
         <image name="opp" width="700" height="274"/>
