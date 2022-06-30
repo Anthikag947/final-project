@@ -11329,27 +11329,6 @@ Cg
                                 <rect key="frame" x="324" y="12" width="61" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="17" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="igh-WX-e3p">
-                                <rect key="frame" x="55" y="93" width="326" height="345"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <attributedString key="attributedText">
-                                    <fragment>
-                                        <string key="content">HTML, or Hyper Text Markup Language, is a programming language commonly used for creating and structuring web pages. The programming language consists of a series of elements which tell the computer how to display the web page. The main components of HTML are called Tags and Attributes. Tags indicate the state of an HTML element and are enclosed in brackets. Attributes are additional information that take the form of an opening tag with the information found inside.
-</string>
-                                        <attributes>
-                                            <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                            <font key="NSFont" size="18" name="Rockwell-Regular"/>
-                                            <real key="NSKern" value="0.0"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                            <color key="NSStrokeColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <real key="NSStrokeWidth" value="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                </attributedString>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rz3-py-cAc">
                                 <rect key="frame" x="43" y="564" width="190" height="49"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -11603,20 +11582,6 @@ Cg
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hDA-wU-ko8">
-                                <rect key="frame" x="55" y="11" width="304" height="65"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <attributedString key="attributedText">
-                                    <fragment content="Python">
-                                        <attributes>
-                                            <color key="NSColor" red="1" green="0.10547609848555584" blue="0.51408828701370179" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                            <font key="NSFont" size="31" name="Rockwell-Regular"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                </attributedString>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-06-27 at 12.21.20 PM" translatesAutoresizingMaskIntoConstraints="NO" id="rox-1V-PEQ">
                                 <rect key="frame" x="-22" y="629" width="458" height="139"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -11700,6 +11665,20 @@ Cg
                                     </attributedString>
                                 </buttonConfiguration>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hDA-wU-ko8">
+                                <rect key="frame" x="44" y="44" width="304" height="65"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="Python">
+                                        <attributes>
+                                            <color key="NSColor" red="1" green="0.10547609848555584" blue="0.51408828701370179" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <font key="NSFont" size="31" name="Rockwell-Regular"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Roa-pH-4Bs"/>
                         <color key="backgroundColor" red="0.015686274510000001" green="0.078431372550000003" blue="0.1764705882" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -12119,31 +12098,6 @@ Web Developer: A web developer creates and manages websites and web applications
                                 <rect key="frame" x="333" y="13" width="61" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="30" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rej-Aq-fAd">
-                                <rect key="frame" x="44" y="103" width="326" height="376"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <attributedString key="attributedText">
-                                    <fragment>
-                                        <string key="content">Data Analyst: A data analyst collects large amounts of information in order to propose a solution. Data analysts are responsible for gathering data, cleaning data (Managing the quality of data so the code interpretations won’t be confusing), modeling data (creating the structure of a database), interpreting data, then presenting data.
-
-Data Scientist: Data scientists use technology and social trends to analyze data and use it to propose solutions for business challenges. Data scientists have experience or knowledge in programming and entrepreneurship so that they can propose solutions that meet the demands of the growing market.
-
-Web Developer: A web developer creates and manages websites and web applications. They manage a website or application in order to make sure that the applications are user friendly and have no bugs in the code. They are also responsible for reducing traffic on a site and create content for the site.
-</string>
-                                        <attributes>
-                                            <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                            <font key="NSFont" size="14" name="Rockwell-Regular"/>
-                                            <real key="NSKern" value="0.0"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                            <color key="NSStrokeColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <real key="NSStrokeWidth" value="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                </attributedString>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6In-7J-3OM">
                                 <rect key="frame" x="112" y="501" width="190" height="49"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -12191,14 +12145,14 @@ Web Developer: A web developer creates and manages websites and web applications
     <inferredMetricsTieBreakers>
         <segue reference="doS-KG-vGu"/>
         <segue reference="wkk-C2-eUN"/>
-        <segue reference="dVu-zA-6LA"/>
-        <segue reference="0Vl-TX-4KV"/>
+        <segue reference="MXT-yW-3uz"/>
+        <segue reference="z6x-kR-aO0"/>
         <segue reference="u38-5e-wV1"/>
         <segue reference="RgF-pK-hZj"/>
         <segue reference="mIs-LJ-vLu"/>
         <segue reference="Pd1-p6-5ei"/>
-        <segue reference="03H-fh-e8t"/>
-        <segue reference="5UW-1a-T1Q"/>
+        <segue reference="bul-2z-ldH"/>
+        <segue reference="7K7-5M-t3t"/>
         <segue reference="z48-Pf-dSi"/>
         <segue reference="tCz-I2-ffN"/>
         <segue reference="o07-Tl-aD4"/>
