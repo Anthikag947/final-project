@@ -3325,6 +3325,9 @@ CQ
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <segue destination="tr1-6U-ou3" kind="show" id="g4A-oc-uak"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7GH-FL-M73">
                                 <rect key="frame" x="20" y="570" width="129" height="52"/>
@@ -8598,6 +8601,9 @@ CQ
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <segue destination="foN-Xi-lgd" kind="show" id="Rtd-pE-xKp"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="8qM-zC-p3L"/>
@@ -12176,7 +12182,7 @@ Web Developer: A web developer creates and manages websites and web applications
         <segue reference="1Kb-iZ-sZC"/>
         <segue reference="y23-xP-D0T"/>
         <segue reference="Nsn-68-31X"/>
-        <segue reference="fvf-N8-J6T"/>
+        <segue reference="Rtd-pE-xKp"/>
         <segue reference="S9a-DD-Aup"/>
         <segue reference="uFz-Hj-bIR"/>
         <segue reference="mfE-TF-rmY"/>
@@ -12188,6 +12194,7 @@ Web Developer: A web developer creates and manages websites and web applications
         <segue reference="qOS-yg-XMB"/>
         <segue reference="ISh-9l-Nk1"/>
         <segue reference="JhI-s3-kOR"/>
+        <segue reference="g4A-oc-uak"/>
         <segue reference="XSa-MK-LpE"/>
         <segue reference="aRw-jq-5X7"/>
         <segue reference="GJC-Bp-F8N"/>
@@ -12198,7 +12205,7 @@ Web Developer: A web developer creates and manages websites and web applications
         <segue reference="yVa-Uz-1nr"/>
         <segue reference="lT3-tc-28f"/>
         <segue reference="GDS-78-HL6"/>
-        <segue reference="2zU-74-pqG"/>
+        <segue reference="Lnr-iQ-DIw"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Screen Shot 2022-06-27 at 12.21.20 PM" width="1740" height="586"/>
