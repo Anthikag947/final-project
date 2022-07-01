@@ -5532,25 +5532,6 @@ CQ
                                     <segue destination="94v-9R-FCC" kind="show" id="OgG-71-pa0"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DFc-w3-PcN">
-                                <rect key="frame" x="18" y="514" width="380" height="94"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="tinted">
-                                    <attributedString key="attributedTitle">
-                                        <fragment content="Personalities of an Entrepreneur">
-                                            <attributes>
-                                                <font key="NSFont" size="25" name="Avenir-Book"/>
-                                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                            </attributes>
-                                        </fragment>
-                                    </attributedString>
-                                </buttonConfiguration>
-                                <connections>
-                                    <segue destination="nbf-F5-ulC" kind="show" id="Nn1-jl-c6o"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QRv-nv-CYD">
                                 <rect key="frame" x="265" y="759" width="129" height="44"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -5616,6 +5597,25 @@ CQ
                                     <segue destination="VPo-Y6-eZt" kind="show" id="EnB-7d-Dle"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DFc-w3-PcN">
+                                <rect key="frame" x="49" y="514" width="314" height="94"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="tinted">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Personalities of an Entrepreneur">
+                                            <attributes>
+                                                <font key="NSFont" size="25" name="Avenir-Book"/>
+                                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </buttonConfiguration>
+                                <connections>
+                                    <segue destination="nbf-F5-ulC" kind="show" id="Nn1-jl-c6o"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="xqs-kn-new"/>
                         <color key="backgroundColor" red="0.015686274510000001" green="0.078431372550000003" blue="0.1764705882" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -5624,7 +5624,7 @@ CQ
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0BC-Ny-GpK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="458" y="2659"/>
+            <point key="canvasLocation" x="457.97101449275368" y="2658.4821428571427"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="EoL-rm-HeF">
@@ -13567,6 +13567,7 @@ Web Developer: A web developer creates and manages websites and web applications
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="Nn1-jl-c6o"/>
         <segue reference="UrH-Yo-HGi"/>
         <segue reference="ttw-Vn-GXT"/>
         <segue reference="Usj-3O-gPB"/>
@@ -13601,12 +13602,12 @@ Web Developer: A web developer creates and manages websites and web applications
         <segue reference="ISh-9l-Nk1"/>
         <segue reference="Vcs-ko-F0e"/>
         <segue reference="g4A-oc-uak"/>
-        <segue reference="0JO-zj-Y7u"/>
+        <segue reference="EnB-7d-Dle"/>
         <segue reference="Sn0-jW-62u"/>
         <segue reference="aRw-jq-5X7"/>
         <segue reference="5dc-w8-yfu"/>
         <segue reference="2bN-QZ-aBY"/>
-        <segue reference="wAs-Nm-6t8"/>
+        <segue reference="Mi0-jr-oL6"/>
         <segue reference="AqD-y6-SR3"/>
         <segue reference="rNd-qe-Qgn"/>
         <segue reference="76a-DR-bLS"/>
@@ -13615,7 +13616,7 @@ Web Developer: A web developer creates and manages websites and web applications
         <segue reference="Ebx-Ak-cu7"/>
         <segue reference="OMm-e6-4oL"/>
         <segue reference="eZf-eK-KKO"/>
-        <segue reference="BKk-vZ-uy4"/>
+        <segue reference="5tq-Al-er3"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Screen Shot 2022-06-27 at 12.21.20 PM" width="1740" height="586"/>
