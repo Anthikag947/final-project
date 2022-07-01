@@ -15,7 +15,19 @@ class pitch_ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func best(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://www.saleshacker.com/sales-pitch-examples/")! as URL, options: [:], completionHandler: nil)
+    }
+    
+    @IBAction func tem(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://www.highspot.com/blog/sales-pitch-examples/")! as URL, options: [:], completionHandler: nil)
+    }
+    
+    @IBAction func wa(_ sender: Any) {
+        UIApplication.shared.open(URL(string:"https://learn.g2.com/sales-pitch")! as URL, options: [:], completionHandler: nil)
+    }
+    
+    
     /*
     // MARK: - Navigation
 

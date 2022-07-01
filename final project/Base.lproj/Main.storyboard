@@ -4242,6 +4242,9 @@ CQ
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="best:" destination="fJ8-Vk-5nz" eventType="touchUpInside" id="jGF-XT-UCD"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gpx-FJ-LFV">
                                 <rect key="frame" x="11" y="643" width="129" height="52"/>
@@ -4307,6 +4310,9 @@ CQ
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="tem:" destination="fJ8-Vk-5nz" eventType="touchUpInside" id="7hN-Vw-qEi"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XSS-d1-I2q">
                                 <rect key="frame" x="62" y="384" width="272" height="40"/>
@@ -4330,6 +4336,9 @@ CQ
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="wa:" destination="fJ8-Vk-5nz" eventType="touchUpInside" id="hGT-Bb-zq6"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="zww-sV-Edn"/>
@@ -9188,6 +9197,9 @@ CQ
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain"/>
+                                <connections>
+                                    <action selector="pr:" destination="nbf-F5-ulC" eventType="touchUpInside" id="GTv-xn-LMs"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="8qM-zC-p3L"/>
@@ -13047,6 +13059,9 @@ Web Developer: A web developer creates and manages websites and web applications
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="pr:" destination="Ihl-bA-Wqc" eventType="touchUpInside" id="bps-2Z-ecD"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n1x-VZ-g7K">
                                 <rect key="frame" x="110" y="480" width="190" height="49"/>
@@ -13063,6 +13078,9 @@ Web Developer: A web developer creates and manages websites and web applications
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="re:" destination="Ihl-bA-Wqc" eventType="touchUpInside" id="XwC-Mp-HF5"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VWa-YC-Vdm">
                                 <rect key="frame" x="-1" y="12" width="322" height="65"/>
@@ -13349,6 +13367,9 @@ Web Developer: A web developer creates and manages websites and web applications
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="pr:" destination="41C-WR-k7g" eventType="touchUpInside" id="lzl-Hl-6bT"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Ux-wd-zOg">
                                 <rect key="frame" x="112" y="481" width="190" height="49"/>
@@ -13365,6 +13386,9 @@ Web Developer: A web developer creates and manages websites and web applications
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="re:" destination="41C-WR-k7g" eventType="touchUpInside" id="UlK-lv-ZhA"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="jub-XM-6Wd"/>
@@ -13500,6 +13524,9 @@ Web Developer: A web developer creates and manages websites and web applications
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="pr:" destination="RUX-HF-TNV" eventType="touchUpInside" id="ete-Xx-Cer"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KVg-bc-HgJ">
                                 <rect key="frame" x="107" y="427" width="190" height="49"/>
@@ -13516,6 +13543,9 @@ Web Developer: A web developer creates and manages websites and web applications
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="re:" destination="RUX-HF-TNV" eventType="touchUpInside" id="TaC-gb-cze"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8e5-fS-Gni">
                                 <rect key="frame" x="31" y="68" width="343" height="223"/>

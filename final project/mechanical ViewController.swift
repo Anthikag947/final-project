@@ -15,7 +15,13 @@ class mechanical_ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    
+    @IBAction func pr(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://ceid.utsa.edu/engineering-summer-camp-high-school-students/")! as URL, options: [:], completionHandler: nil)
+    }
+    @IBAction func re(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://www.me.columbia.edu/what-mechanical-engineering")! as URL, options: [:], completionHandler: nil)
+    }
     /*
     // MARK: - Navigation
 

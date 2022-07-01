@@ -15,7 +15,13 @@ class electrical_ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func pr(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://www.txgcp.org/stem-camps-across-tx")! as URL, options: [:], completionHandler: nil)
+    }
+    
+    @IBAction func re(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://www.livescience.com/47571-electrical-engineering.html")! as URL, options: [:], completionHandler: nil)
+    }
     /*
     // MARK: - Navigation
 

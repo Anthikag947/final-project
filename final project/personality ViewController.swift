@@ -15,7 +15,11 @@ class personality_ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    @IBAction func pr(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://www.16personalities.com/")! as URL, options: [:], completionHandler: nil)
 
+    }
+    
     /*
     // MARK: - Navigation
 
